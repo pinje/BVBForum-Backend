@@ -1,4 +1,4 @@
-# BVB Forum
+# BVB Forum (Backend)
 
 Personal Semester Project. Conceived, designed, and delivered a full-stack community platform enabling Borussia Dortmund supporters to engage through posts, comments, live chat, and player-rating features. Provided administrators with powerful tools to manage player data and moderate community content securely.
 
